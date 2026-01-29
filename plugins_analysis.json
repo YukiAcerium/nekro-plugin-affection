@@ -1,0 +1,127 @@
+{
+  "analyzed_at": "2026-01-29T15:48:13.955939",
+  "total_plugins": 32,
+  "total_stars": 6,
+  "total_forks": 3,
+  "top_10_by_stars": [
+    {
+      "name": "QQ空间发送器",
+      "module": "qzone_sender",
+      "stars": 2,
+      "forks": 1,
+      "author": "LimeNeko"
+    },
+    {
+      "name": "美的智能家居控制",
+      "module": "nekro_midea_plugin",
+      "stars": 1,
+      "forks": 0,
+      "author": "搁浅"
+    },
+    {
+      "name": "Nekro Dify !",
+      "module": "dify_adapter",
+      "stars": 1,
+      "forks": 0,
+      "author": "wess09"
+    },
+    {
+      "name": "BiliBili直播监控",
+      "module": "nekro_plugin_bilibili",
+      "stars": 1,
+      "forks": 0,
+      "author": "yang208115"
+    },
+    {
+      "name": "主动管理屏蔽用户",
+      "module": "nekro_plugin_block",
+      "stars": 1,
+      "forks": 0,
+      "author": "KroMiose"
+    },
+    {
+      "name": "网易云点歌插件",
+      "module": "netease_api_plugin",
+      "stars": 0,
+      "forks": 0,
+      "author": "搁浅"
+    },
+    {
+      "name": "GitHub 项目分析与评估",
+      "module": "nekro_github_analyzer",
+      "stars": 0,
+      "forks": 0,
+      "author": "liugu"
+    },
+    {
+      "name": "国际象棋",
+      "module": "nekro_plugin_chess",
+      "stars": 0,
+      "forks": 0,
+      "author": "ZerBC"
+    },
+    {
+      "name": "记忆插件",
+      "module": "nekro_plugin_mem0",
+      "stars": 0,
+      "forks": 0,
+      "author": "johntime"
+    },
+    {
+      "name": "AI 语音插件 Plus (AI Voice Plus)",
+      "module": "ai_voice_plus",
+      "stars": 0,
+      "forks": 0,
+      "author": "小九"
+    }
+  ],
+  "author_rankings": [
+    [
+      "搁浅",
+      5
+    ],
+    [
+      "KroMiose",
+      4
+    ],
+    [
+      "greenhandzdl",
+      4
+    ],
+    [
+      "小九",
+      3
+    ],
+    [
+      "Dirac",
+      3
+    ],
+    [
+      "小鱼",
+      2
+    ],
+    [
+      "liugu",
+      1
+    ],
+    [
+      "ZerBC",
+      1
+    ],
+    [
+      "johntime",
+      1
+    ],
+    [
+      "wess09",
+      1
+    ]
+  ],
+  "category_distribution": {
+    "娱乐": 7,
+    "工具": 8,
+    "AI功能": 8,
+    "社交": 11,
+    "集成": 3
+  }
+}

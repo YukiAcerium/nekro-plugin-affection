@@ -1,0 +1,1575 @@
+{
+  "evaluated_at": "2026-01-29T16:21:37.289048",
+  "total_plugins": 49,
+  "average_score": 6.4469387755102,
+  "grade_distribution": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "F": 49
+  },
+  "results": [
+    {
+      "scores": {
+        "代码质量": 10.0,
+        "功能完整性": 10,
+        "文档完善度": 8,
+        "AI使用设计": 10,
+        "易用性": 8.5,
+        "安全性": 10,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 9.0,
+        "扩展性": 9.0
+      },
+      "total_score": 9.3,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 1,
+        "updated_at": "2025-10-22T06:46:02Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 10,
+        "length": 294,
+        "has_detailed_desc": true
+      },
+      "name": "克隆群友",
+      "author": "KroMiose",
+      "module": "nekro_plugin_clone"
+    },
+    {
+      "scores": {
+        "代码质量": 10.0,
+        "功能完整性": 10,
+        "文档完善度": 8,
+        "AI使用设计": 10,
+        "易用性": 8.5,
+        "安全性": 10,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 9.0,
+        "扩展性": 9.0
+      },
+      "total_score": 9.3,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-09-09T07:07:49Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 10,
+        "length": 209,
+        "has_detailed_desc": true
+      },
+      "name": "关键词监听订阅",
+      "author": "小鱼",
+      "module": "keyword_monitor"
+    },
+    {
+      "scores": {
+        "代码质量": 10.0,
+        "功能完整性": 10.0,
+        "文档完善度": 8,
+        "AI使用设计": 10,
+        "易用性": 8.5,
+        "安全性": 10.0,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 9.0,
+        "扩展性": 9.0
+      },
+      "total_score": 9.3,
+      "grade": "F",
+      "github": {
+        "stars": 2,
+        "forks": 1,
+        "updated_at": "2025-06-12T02:29:20Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 10.0,
+        "length": 310,
+        "has_detailed_desc": true
+      },
+      "name": "AI 智慧搜索",
+      "author": "wess09",
+      "module": "nekro_plugin_kimi_search"
+    },
+    {
+      "scores": {
+        "代码质量": 10.0,
+        "功能完整性": 10.0,
+        "文档完善度": 6,
+        "AI使用设计": 10,
+        "易用性": 8.5,
+        "安全性": 10,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 9.0,
+        "扩展性": 9.0
+      },
+      "total_score": 9.1,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 2,
+        "updated_at": "2025-10-21T08:30:53Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 10.0,
+        "length": 93,
+        "has_detailed_desc": false
+      },
+      "name": "TRPG 智能骰子",
+      "author": "Dirac",
+      "module": "nekro_trpg_dice_plugin"
+    },
+    {
+      "scores": {
+        "代码质量": 8.7,
+        "功能完整性": 8.5,
+        "文档完善度": 6,
+        "AI使用设计": 9.0,
+        "易用性": 7.2,
+        "安全性": 9.0,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 7.7,
+        "扩展性": 7.7
+      },
+      "total_score": 8.1,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 1,
+        "updated_at": "2025-11-22T06:42:53Z",
+        "language": "Python",
+        "open_issues": 2,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 8.5,
+        "length": 43,
+        "has_detailed_desc": false
+      },
+      "name": "AI自主判断是否回复",
+      "author": "小九",
+      "module": "ai_reply_filter"
+    },
+    {
+      "scores": {
+        "代码质量": 8.2,
+        "功能完整性": 8,
+        "文档完善度": 8,
+        "AI使用设计": 8.5,
+        "易用性": 6.8,
+        "安全性": 8.5,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 7.2,
+        "扩展性": 7.3
+      },
+      "total_score": 7.9,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-12-26T12:22:17Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 8,
+        "length": 226,
+        "has_detailed_desc": true
+      },
+      "name": "AI自主管群插件 (仅适配napcat)",
+      "author": "小九",
+      "module": "ai_group_admin"
+    },
+    {
+      "scores": {
+        "代码质量": 8.2,
+        "功能完整性": 8,
+        "文档完善度": 8,
+        "AI使用设计": 8.5,
+        "易用性": 6.8,
+        "安全性": 8.5,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 7.2,
+        "扩展性": 7.3
+      },
+      "total_score": 7.9,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2025-11-19T14:16:46Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 8,
+        "length": 309,
+        "has_detailed_desc": true
+      },
+      "name": "主动管理屏蔽用户",
+      "author": "KroMiose",
+      "module": "nekro_plugin_block"
+    },
+    {
+      "scores": {
+        "代码质量": 8.2,
+        "功能完整性": 8.0,
+        "文档完善度": 6,
+        "AI使用设计": 8.5,
+        "易用性": 6.8,
+        "安全性": 8.0,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 7.2,
+        "扩展性": 7.3
+      },
+      "total_score": 7.7,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 1,
+        "updated_at": "2025-10-15T14:38:08Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 8.0,
+        "length": 52,
+        "has_detailed_desc": false
+      },
+      "name": "绘画插件（nvidia）",
+      "author": "greenhandzdl",
+      "module": "nvidia_draw"
+    },
+    {
+      "scores": {
+        "代码质量": 7.8,
+        "功能完整性": 7.5,
+        "文档完善度": 8,
+        "AI使用设计": 8.0,
+        "易用性": 6.4,
+        "安全性": 7.5,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 6.8,
+        "扩展性": 6.9
+      },
+      "total_score": 7.5,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2026-01-04T14:58:14Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7.5,
+        "length": 132,
+        "has_detailed_desc": true
+      },
+      "name": "stable_diffusion绘图",
+      "author": "ZerBC",
+      "module": "stable_diffusion_draw"
+    },
+    {
+      "scores": {
+        "代码质量": 7.8,
+        "功能完整性": 7.5,
+        "文档完善度": 6,
+        "AI使用设计": 8.0,
+        "易用性": 6.4,
+        "安全性": 8.0,
+        "维护活跃度": 8,
+        "创新程度": 7,
+        "用户体验": 6.8,
+        "扩展性": 6.9
+      },
+      "total_score": 7.4,
+      "grade": "F",
+      "github": {
+        "stars": 2,
+        "forks": 1,
+        "updated_at": "2025-10-16T13:26:57Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7.5,
+        "length": 59,
+        "has_detailed_desc": false
+      },
+      "name": "二游语音生成插件",
+      "author": "Jerry_FaGe",
+      "module": "anime_tts"
+    },
+    {
+      "scores": {
+        "代码质量": 7.3,
+        "功能完整性": 7.0,
+        "文档完善度": 8,
+        "AI使用设计": 7.5,
+        "易用性": 6.0,
+        "安全性": 7.0,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 6.3,
+        "扩展性": 6.5
+      },
+      "total_score": 7.1,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2025-12-12T11:13:09Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7.0,
+        "length": 166,
+        "has_detailed_desc": true
+      },
+      "name": "Nekro Dify !",
+      "author": "wess09",
+      "module": "dify_adapter"
+    },
+    {
+      "scores": {
+        "代码质量": 7.3,
+        "功能完整性": 7,
+        "文档完善度": 8,
+        "AI使用设计": 7.5,
+        "易用性": 6.0,
+        "安全性": 7.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 6.3,
+        "扩展性": 6.5
+      },
+      "total_score": 7.1,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-09-06T10:44:55Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7,
+        "length": 172,
+        "has_detailed_desc": true
+      },
+      "name": "消息正则过滤器",
+      "author": "小鱼",
+      "module": "message_regex_filter"
+    },
+    {
+      "scores": {
+        "代码质量": 7.3,
+        "功能完整性": 7,
+        "文档完善度": 6,
+        "AI使用设计": 7.5,
+        "易用性": 6.0,
+        "安全性": 7.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 6.3,
+        "扩展性": 6.5
+      },
+      "total_score": 6.9,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2026-01-10T12:09:33Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7,
+        "length": 24,
+        "has_detailed_desc": false
+      },
+      "name": "美的智能家居控制",
+      "author": "搁浅",
+      "module": "nekro_midea_plugin"
+    },
+    {
+      "scores": {
+        "代码质量": 7.3,
+        "功能完整性": 7,
+        "文档完善度": 6,
+        "AI使用设计": 7.5,
+        "易用性": 6.0,
+        "安全性": 7.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 6.3,
+        "扩展性": 6.5
+      },
+      "total_score": 6.9,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-12-06T10:51:33Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7,
+        "length": 35,
+        "has_detailed_desc": false
+      },
+      "name": "Anuneko 多模型聊天",
+      "author": "XGGM",
+      "module": "anuneko_chat"
+    },
+    {
+      "scores": {
+        "代码质量": 7.3,
+        "功能完整性": 7.0,
+        "文档完善度": 6,
+        "AI使用设计": 7.5,
+        "易用性": 6.0,
+        "安全性": 7.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 6.3,
+        "扩展性": 6.5
+      },
+      "total_score": 6.9,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2025-10-17T04:19:30Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7.0,
+        "length": 62,
+        "has_detailed_desc": false
+      },
+      "name": "Nekro Agent 用户性格分析插件",
+      "author": "Dirac",
+      "module": "analyze_user_personality"
+    },
+    {
+      "scores": {
+        "代码质量": 7.3,
+        "功能完整性": 7,
+        "文档完善度": 6,
+        "AI使用设计": 7.5,
+        "易用性": 6.0,
+        "安全性": 7.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 6.3,
+        "扩展性": 6.5
+      },
+      "total_score": 6.9,
+      "grade": "F",
+      "github": {
+        "stars": 3,
+        "forks": 0,
+        "updated_at": "2025-12-13T01:02:04Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7,
+        "length": 77,
+        "has_detailed_desc": false
+      },
+      "name": "盘搜",
+      "author": "null",
+      "module": "pansou"
+    },
+    {
+      "scores": {
+        "代码质量": 7.3,
+        "功能完整性": 7,
+        "文档完善度": 6,
+        "AI使用设计": 7.5,
+        "易用性": 6.0,
+        "安全性": 7.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 6.3,
+        "扩展性": 6.5
+      },
+      "total_score": 6.9,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2025-09-09T07:04:04Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 7,
+        "length": 64,
+        "has_detailed_desc": false
+      },
+      "name": "Kimi 联网搜索插件",
+      "author": "Dirac",
+      "module": "nekro_agent_kimi_search"
+    },
+    {
+      "scores": {
+        "代码质量": 6.9,
+        "功能完整性": 6.5,
+        "文档完善度": 6,
+        "AI使用设计": 7.0,
+        "易用性": 5.5,
+        "安全性": 7.0,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.9,
+        "扩展性": 6.0
+      },
+      "total_score": 6.5,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-12-28T10:35:25Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 6.5,
+        "length": 82,
+        "has_detailed_desc": false
+      },
+      "name": "AI 语音插件 Plus (AI Voice Plus)",
+      "author": "小九",
+      "module": "ai_voice_plus"
+    },
+    {
+      "scores": {
+        "代码质量": 6.9,
+        "功能完整性": 6.5,
+        "文档完善度": 6,
+        "AI使用设计": 7.0,
+        "易用性": 5.5,
+        "安全性": 7.0,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.9,
+        "扩展性": 6.0
+      },
+      "total_score": 6.5,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2026-01-25T20:04:46Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 6.5,
+        "length": 32,
+        "has_detailed_desc": false
+      },
+      "name": "BiliBili直播监控",
+      "author": "yang208115",
+      "module": "nekro_plugin_bilibili"
+    },
+    {
+      "scores": {
+        "代码质量": 6.9,
+        "功能完整性": 6.5,
+        "文档完善度": 6,
+        "AI使用设计": 7.0,
+        "易用性": 5.5,
+        "安全性": 7.0,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.9,
+        "扩展性": 6.0
+      },
+      "total_score": 6.5,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2025-09-02T18:11:56Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 6.5,
+        "length": 36,
+        "has_detailed_desc": false
+      },
+      "name": "MCP扩展插件",
+      "author": "Zaxpris & KroMiose",
+      "module": "mcp_tools"
+    },
+    {
+      "scores": {
+        "代码质量": 6.4,
+        "功能完整性": 6.0,
+        "文档完善度": 6,
+        "AI使用设计": 6.5,
+        "易用性": 5.1,
+        "安全性": 6.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.4,
+        "扩展性": 5.6
+      },
+      "total_score": 6.2,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2026-01-13T12:59:05Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 6.0,
+        "length": 72,
+        "has_detailed_desc": false
+      },
+      "name": "GitHub 项目分析与评估",
+      "author": "liugu",
+      "module": "nekro_github_analyzer"
+    },
+    {
+      "scores": {
+        "代码质量": 6.4,
+        "功能完整性": 6.0,
+        "文档完善度": 6,
+        "AI使用设计": 6.5,
+        "易用性": 5.1,
+        "安全性": 6.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.4,
+        "扩展性": 5.6
+      },
+      "total_score": 6.2,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-11-27T14:48:02Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 6.0,
+        "length": 42,
+        "has_detailed_desc": false
+      },
+      "name": "🪄高级绘图魔法✨",
+      "author": "KroMiose",
+      "module": "magic_draw"
+    },
+    {
+      "scores": {
+        "代码质量": 6.4,
+        "功能完整性": 6.0,
+        "文档完善度": 6,
+        "AI使用设计": 6.5,
+        "易用性": 5.1,
+        "安全性": 6.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.4,
+        "扩展性": 5.6
+      },
+      "total_score": 6.2,
+      "grade": "F",
+      "github": {
+        "stars": 4,
+        "forks": 12,
+        "updated_at": "2026-01-12T11:42:51Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 6.0,
+        "length": 56,
+        "has_detailed_desc": false
+      },
+      "name": "WebApp 快速部署",
+      "author": "KroMiose",
+      "module": "nekro_plugin_webapp"
+    },
+    {
+      "scores": {
+        "代码质量": 6.4,
+        "功能完整性": 6,
+        "文档完善度": 6,
+        "AI使用设计": 6.5,
+        "易用性": 5.1,
+        "安全性": 6.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.4,
+        "扩展性": 5.6
+      },
+      "total_score": 6.2,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-12-19T10:27:16Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 6,
+        "length": 23,
+        "has_detailed_desc": false
+      },
+      "name": "高德api天气查询",
+      "author": "搁浅",
+      "module": "amap_weather"
+    },
+    {
+      "scores": {
+        "代码质量": 6.4,
+        "功能完整性": 6,
+        "文档完善度": 6,
+        "AI使用设计": 6.5,
+        "易用性": 5.1,
+        "安全性": 6.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.4,
+        "扩展性": 5.6
+      },
+      "total_score": 6.2,
+      "grade": "F",
+      "github": {
+        "stars": 2,
+        "forks": 0,
+        "updated_at": "2025-12-22T08:59:45Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 6,
+        "length": 20,
+        "has_detailed_desc": false
+      },
+      "name": "态度插件",
+      "author": "运阳",
+      "module": "nekro_plugin_attitude"
+    },
+    {
+      "scores": {
+        "代码质量": 6.4,
+        "功能完整性": 6,
+        "文档完善度": 6,
+        "AI使用设计": 6.5,
+        "易用性": 5.1,
+        "安全性": 6.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.4,
+        "扩展性": 5.6
+      },
+      "total_score": 6.2,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-08-20T02:52:13Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 6,
+        "length": 39,
+        "has_detailed_desc": false
+      },
+      "name": "GalGame 聊天选项",
+      "author": "KroMiose",
+      "module": "galchat"
+    },
+    {
+      "scores": {
+        "代码质量": 6.4,
+        "功能完整性": 6,
+        "文档完善度": 6,
+        "AI使用设计": 6.5,
+        "易用性": 5.1,
+        "安全性": 6.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.4,
+        "扩展性": 5.6
+      },
+      "total_score": 6.2,
+      "grade": "F",
+      "github": {
+        "stars": 1,
+        "forks": 0,
+        "updated_at": "2025-04-19T11:51:14Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 6,
+        "length": 12,
+        "has_detailed_desc": false
+      },
+      "name": "发送电子邮件！",
+      "author": "wess09",
+      "module": "nekro_plugin_email"
+    },
+    {
+      "scores": {
+        "代码质量": 6.0,
+        "功能完整性": 5.5,
+        "文档完善度": 6.5,
+        "AI使用设计": 6.0,
+        "易用性": 4.8,
+        "安全性": 6.0,
+        "维护活跃度": 8.5,
+        "创新程度": 6.5,
+        "用户体验": 5.0,
+        "扩展性": 5.2
+      },
+      "total_score": 5.9,
+      "grade": "F",
+      "github": {
+        "stars": 5,
+        "forks": 1,
+        "updated_at": "2025-09-01T15:03:39Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 53,
+        "has_detailed_desc": false
+      },
+      "name": "记忆插件",
+      "author": "Zaxpris",
+      "module": "nekro_plugin_memory"
+    },
+    {
+      "scores": {
+        "代码质量": 6.0,
+        "功能完整性": 5.5,
+        "文档完善度": 6,
+        "AI使用设计": 6.0,
+        "易用性": 4.7,
+        "安全性": 6.0,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.0,
+        "扩展性": 5.2
+      },
+      "total_score": 5.8,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2026-01-08T20:37:49Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5.5,
+        "length": 31,
+        "has_detailed_desc": false
+      },
+      "name": "国际象棋",
+      "author": "ZerBC",
+      "module": "nekro_plugin_chess"
+    },
+    {
+      "scores": {
+        "代码质量": 6.0,
+        "功能完整性": 5.5,
+        "文档完善度": 6,
+        "AI使用设计": 6.0,
+        "易用性": 4.7,
+        "安全性": 6.0,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.0,
+        "扩展性": 5.2
+      },
+      "total_score": 5.8,
+      "grade": "F",
+      "github": {
+        "stars": 2,
+        "forks": 1,
+        "updated_at": "2026-01-13T12:59:59Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5.5,
+        "length": 55,
+        "has_detailed_desc": false
+      },
+      "name": "QQ空间发送器",
+      "author": "LimeNeko",
+      "module": "qzone_sender"
+    },
+    {
+      "scores": {
+        "代码质量": 6.0,
+        "功能完整性": 5.5,
+        "文档完善度": 6,
+        "AI使用设计": 6.0,
+        "易用性": 4.7,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.0,
+        "扩展性": 5.2
+      },
+      "total_score": 5.8,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-07-12T03:49:19Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5.5,
+        "length": 29,
+        "has_detailed_desc": false
+      },
+      "name": "Z-Library 搜索下载插件",
+      "author": "Dirac",
+      "module": "nekro_plugin_ZLibrary"
+    },
+    {
+      "scores": {
+        "代码质量": 6.0,
+        "功能完整性": 5.5,
+        "文档完善度": 6,
+        "AI使用设计": 6.0,
+        "易用性": 4.7,
+        "安全性": 6.0,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 5.0,
+        "扩展性": 5.2
+      },
+      "total_score": 5.8,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-06-28T13:56:20Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 5.5,
+        "length": 56,
+        "has_detailed_desc": false
+      },
+      "name": "通义万相视频生成（异步）",
+      "author": "KroMiose",
+      "module": "tongyi_wanx"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2026-01-18T14:18:59Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 10,
+        "has_detailed_desc": false
+      },
+      "name": "网易云点歌插件",
+      "author": "搁浅",
+      "module": "netease_api_plugin"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2026-01-06T03:54:13Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 40,
+        "has_detailed_desc": false
+      },
+      "name": "记忆插件",
+      "author": "johntime",
+      "module": "nekro_plugin_mem0"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 1,
+        "updated_at": "2025-11-25T15:44:07Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 23,
+        "has_detailed_desc": false
+      },
+      "name": "网易云音乐点歌",
+      "author": "Sakuralis",
+      "module": "Cloudmusic_Search"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-11-17T10:42:20Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 18,
+        "has_detailed_desc": false
+      },
+      "name": "三角洲今日密码查询",
+      "author": "搁浅",
+      "module": "delta_password"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2026-01-18T14:15:16Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 12,
+        "has_detailed_desc": false
+      },
+      "name": "QQ音乐点歌",
+      "author": "搁浅",
+      "module": "order_qqmusic"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-09-18T01:34:56Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 3,
+        "has_detailed_desc": false
+      },
+      "name": "戳一戳",
+      "author": "运阳",
+      "module": "nekro_plugin_poke"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-10-01T08:00:40Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 54,
+        "has_detailed_desc": false
+      },
+      "name": "Nvidia neva-22b 查看图片",
+      "author": "greenhandzdl",
+      "module": "nekro_view_image"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-09-07T10:03:55Z",
+        "language": "Python",
+        "open_issues": 1,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 50,
+        "has_detailed_desc": false
+      },
+      "name": "安全Shell执行插件",
+      "author": "greenhandzdl",
+      "module": "nekro_plugin_sec_run"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-09-03T09:11:30Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 63,
+        "has_detailed_desc": false
+      },
+      "name": "git工具",
+      "author": "greenhandzdl",
+      "module": "git_toolkit"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-08-29T19:51:38Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 47,
+        "has_detailed_desc": false
+      },
+      "name": "消息回溯",
+      "author": "Zaxpris",
+      "module": "nekro_plugin_message_traceback"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-08-05T16:41:04Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 59,
+        "has_detailed_desc": false
+      },
+      "name": "网页搜索",
+      "author": "运阳",
+      "module": "nekro_plugin_web_search"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-08-24T15:23:20Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 0
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 15,
+        "has_detailed_desc": false
+      },
+      "name": "人设切换",
+      "author": "Zaxpris",
+      "module": "change_preset"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-04-14T02:16:33Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 14,
+        "has_detailed_desc": false
+      },
+      "name": "表情包获取插件",
+      "author": "XG.GM",
+      "module": "emo_plugin"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-04-12T12:13:12Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 11,
+        "has_detailed_desc": false
+      },
+      "name": "二次元图片搜索",
+      "author": "XG.GM, Zaxpris, wess09",
+      "module": "acg_image_search"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 0,
+        "forks": 0,
+        "updated_at": "2025-06-28T12:25:01Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 19,
+        "has_detailed_desc": false
+      },
+      "name": "每日早报",
+      "author": "XG.GM",
+      "module": "zaobao"
+    },
+    {
+      "scores": {
+        "代码质量": 5.5,
+        "功能完整性": 5,
+        "文档完善度": 6,
+        "AI使用设计": 5.5,
+        "易用性": 4.2,
+        "安全性": 5.5,
+        "维护活跃度": 8,
+        "创新程度": 6,
+        "用户体验": 4.5,
+        "扩展性": 4.8
+      },
+      "total_score": 5.4,
+      "grade": "F",
+      "github": {
+        "stars": 3,
+        "forks": 0,
+        "updated_at": "2025-10-16T09:15:36Z",
+        "language": "Python",
+        "open_issues": 0,
+        "subscribers": 1
+      },
+      "desc_analysis": {
+        "complexity_score": 5,
+        "length": 14,
+        "has_detailed_desc": false
+      },
+      "name": "天气查询（模板）",
+      "author": "KroMise",
+      "module": "weather"
+    },
+    {
+      "scores": {
+        "代码质量": 5.0,
+        "功能完整性": 5.5,
+        "文档完善度": 5,
+        "AI使用设计": 6.0,
+        "易用性": 4.7,
+        "安全性": 5.5,
+        "维护活跃度": 6,
+        "创新程度": 6,
+        "用户体验": 5.0,
+        "扩展性": 4.7
+      },
+      "total_score": 5.3,
+      "grade": "F",
+      "github": {},
+      "desc_analysis": {
+        "complexity_score": 5.5,
+        "length": 26,
+        "has_detailed_desc": false
+      },
+      "name": "博查网页搜索插件",
+      "author": "Dirac",
+      "module": "nekro_plugin_BochaSearch"
+    }
+  ]
+}
