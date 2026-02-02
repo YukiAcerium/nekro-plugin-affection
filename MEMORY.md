@@ -33,6 +33,7 @@
 - **插件 ID**: `0e930e7e-42b3-455b-bfb5-cfb584c38dcc`
 - **GitHub**: https://github.com/YukiAcerium/nekro-plugin-social-memory
 - **发布时间**: 2026-01-29
+- **最后更新**: 2026-02-02 (修复 AgentCtx.from_user_id bug → 改用 message.sender_id 和 chat_key)
 - **功能**: 整合好感度追踪 + 用户记忆管理
   - 6 级关系等级（敌人 → 陌生人 → 熟人 → 朋友 → 密友 → 灵魂伴侣）
   - 5 种记忆类型（偏好/信息/约定/兴趣/习惯）
@@ -260,3 +261,37 @@ nekro-agent-skills/
 
 ### 弃用的方法
 - ~~`get_plugin_path()`~~ → 使用 `get_plugin_data_dir()`
+
+---
+
+## 记忆空间系统 (2026-01-31)
+
+### 项目信息
+
+- **仓库**: https://github.com/YukiAcerium/memory-space (私有)
+- **本地路径**: /Users/clawd/clawd/memory-space
+- **自动同步**: 每天 6:00 (Asia/Shanghai)
+
+### 同步内容
+
+1. **记忆文件**: MEMORY.md, IDENTITY.md, USER.md, SOUL.md, AGENTS.md, TOOLS.md
+2. **每日笔记**: 2025-01-25 至今的所有笔记
+3. **技能配置**: 55+ 可用技能列表
+4. **项目文件**: yuki-research 所有项目
+5. **配置文件**: Clawdbot, Nekro-Agent 配置
+6. **凭证索引**: 仅索引，不包含实际凭证
+
+### 工具脚本
+
+- `tools/sync.sh`: 同步脚本
+- `tools/restore.sh`: 恢复脚本
+
+### 恢复流程
+
+1. 克隆仓库: `git clone git@github.com:YukiAcerium/memory-space.git`
+2. 运行恢复: `cd memory-space && ./tools/restore.sh`
+3. 重新配置凭证
+
+### 目的
+
+确保即使将来出问题，也能恢复所有知识和配置。
